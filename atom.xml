@@ -3,11 +3,11 @@
   <title>Екатерина</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://miaoqi0.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://miaoqi0.github.io/"/>
   <updated>2020-10-19T04:20:39.399Z</updated>
-  <id>http://example.com/</id>
+  <id>https://miaoqi0.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/10/19/hello-world/"/>
-    <id>http://example.com/2020/10/19/hello-world/</id>
+    <link href="https://miaoqi0.github.io/2020/10/19/hello-world/"/>
+    <id>https://miaoqi0.github.io/2020/10/19/hello-world/</id>
     <published>2020-10-19T04:20:39.399Z</published>
     <updated>2020-10-19T04:20:39.399Z</updated>
     
